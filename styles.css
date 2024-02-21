@@ -1,0 +1,14 @@
+@font-face{
+    font-family: terminalgrotesque;
+    src: url(fonts/terminal-grotesque-webfont.woff);
+}
+
+body{
+    font-family: terminalgrotesque;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(17, 11, 11);
+    color: rgb(220, 239, 255);
+    
+}
