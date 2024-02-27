@@ -1,0 +1,57 @@
+@font-face{
+    font-family: terminalgrotesque;
+    src: url(fonts/terminal-grotesque-webfont.woff);
+}
+
+body{
+    font-family: terminalgrotesque;
+    margin: auto;
+    width: 50%;
+    padding: 20px;
+    padding-bottom: 80px;
+    background-color: rgb(247, 216, 200);
+    color: rgb(29, 30, 31);
+    text-align: center;
+  
+    
+}
+
+.grid-container{
+    position: absolute;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 5%;
+    padding-top: 100px;
+    top: 100px;
+    left: 300;
+    
+}
+
+.eight{
+    position: relative;
+    top: 1500px;
+    left: 580px;
+    
+}
+
+.pearl{
+    position: relative;
+    top: -420px;
+    left: -550px;
+}
+ 
+h1{
+    font-size: 50px;
+    
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+a{
+    font-size: 30px;
+    color: rgb(255, 150, 115);
+}
