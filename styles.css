@@ -22,8 +22,9 @@ body{
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 5%;
     padding-top: 100px;
+    padding-bottom: 200px;
     top: 100px;
-    left: 300;
+    left: 600;
     
 }
 
@@ -56,4 +57,14 @@ a{
     position:  relative;
     top: 1350px;
     padding: 100px;
+    margin: auto;
+}
+
+.fix{
+    font-size: 30px;
+    color: rgb(255, 150, 115);
+    position:  absolute;
+    top: 2000px;
+    padding: 100px;
+    margin: auto;
 }
