@@ -59,12 +59,3 @@ a{
     padding: 100px;
     margin: auto;
 }
-
-.fix{
-    font-size: 30px;
-    color: rgb(255, 150, 115);
-    position:  absolute;
-    top: 2000px;
-    padding: 100px;
-    margin: auto;
-}
